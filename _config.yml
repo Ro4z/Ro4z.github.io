@@ -17,7 +17,7 @@ minimal_mistakes_skin: "dark"
 # Site Settings
 locale: "ko-KR"
 title: "Ro4z Blog"
-title_separator: "&#124"
+title_separator: ">"
 subtitle: # site tagline that appears below site title in masthead
 name: "Ryu In Seong"
 description: "공부하고 경험하는 블로그"
