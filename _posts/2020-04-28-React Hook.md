@@ -1,7 +1,7 @@
-# React Hook 
-> React (>= 16.8) React Native (>= 0.59)
 
-## Hook은 무엇인가?
+> React Hook이란 무엇인가?
+
+## React Hook의 등장
 class 형태의 React Component의 방식을 대체한다.
 즉,기존의 this.state, componentDidMount() 등의 사용을 대체하는 것이다.
 
