@@ -100,17 +100,17 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: insung1217@gmail.com
+      url: insung1217@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Ro4z"
+      url: "https://github.com/Ro4z"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://github.com/Ro4z"
+      url: "https://github.com/Ro4z"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
