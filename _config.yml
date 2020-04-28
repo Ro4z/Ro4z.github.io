@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air"
 
 # Site Settings
-locale: "en-US"
-title: "Site Title"
-title_separator: "-"
+locale: "ko-KR"
+title: "Ro4z Blog"
+title_separator: "&#124"
 subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
-description: "An amazing website."
-url: "https://ro4z.github.io"
-baseurl: ""
+name: "Ryu In Seong"
+description: "공부하는 블로그"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+masthead_title:
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -92,51 +92,27 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "유인성"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
-  email:
+  bio: "공부하는 블로그입니다."
+  location: "InCheon, Republic of Korea"
+  email: "insung1217@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      #url: insung1217@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/Ro4z"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url:"https://github.com/Ro4z"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url:
 
 # Reading Files
