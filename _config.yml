@@ -20,7 +20,7 @@ title: "Ro4z Blog"
 title_separator: "&#124"
 subtitle: # site tagline that appears below site title in masthead
 name: "Ryu In Seong"
-description: "공부하는 블로그"
+description: "공부하고 경험하는 블로그"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
