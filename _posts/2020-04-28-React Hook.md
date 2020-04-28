@@ -2,7 +2,7 @@
 > React Hook이란 무엇인가?
 
 ## React Hook의 등장
-한마디로 class 형태의 React Component의 방식을 대체합니다.
+한마디로 표현하자면 class 형태의 React Component의 방식을 대체하는 방식입니다.
 
 기존에 Class기반의 Component는 재사용을 위해 [render props](https://ko.reactjs.org/docs/render-props.html#gatsby-focus-wrapper) 그리고 [HOC(higher-order components)](https://ko.reactjs.org/docs/higher-order-components.html#gatsby-focus-wrapper)방식을 택하였습니다.
 
